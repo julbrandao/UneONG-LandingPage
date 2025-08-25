@@ -371,7 +371,6 @@ nav{
     
 }
 
-
 .btn-doar {
     display: inline-block;
     background: linear-gradient(90deg, #f86d68, #ff6a2c, #f47f23);
@@ -816,12 +815,13 @@ footer{
 
 .footer-license{
     background: linear-gradient(to right, #e3b055, #f4863e, #f86d68);
-    padding: 8px;
-    height: 70px;
+    padding: 5px;
+    height: 60px;
     
     & p {
         color: white;
         font-family: 'Nunito', 'Poppins Regular', Arial;
-        font-size: 11pt;
+        font-size: 10pt;
+        text-align: left;
     }
 }
